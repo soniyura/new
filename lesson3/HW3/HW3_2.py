@@ -16,4 +16,4 @@ data = [
 def get_age(data):
     return data['age']
 
-a.sort(key = get_age())
+#a.sort(key = get_age())
